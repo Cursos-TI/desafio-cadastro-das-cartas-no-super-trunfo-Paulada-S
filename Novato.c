@@ -20,7 +20,7 @@ scanf("%f", &PIB);
 printf("O numero populacional é: %d\n", &populacao);
 printf("O número de pontos turisticos é: %d\n", &pontos_turisticos);
 printf("A área é: %f\n", &area);
-printf("O PIB é de: %f\n", &PIB)
+printf("O PIB é de: %f\n", &PIB);
 
 
-}sssaddn b
+}
